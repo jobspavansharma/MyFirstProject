@@ -1,2 +1,2 @@
 # MyFirstProject
-Learning github
+Learning github, but really confused
